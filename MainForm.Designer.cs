@@ -1,6 +1,6 @@
 ﻿namespace TextAndButton
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,12 +29,13 @@
         private void InitializeComponent()
         {
             showText = new Button();
+            messageField = new TextBox();
             SuspendLayout();
             // 
             // showText
             // 
             showText.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            showText.Location = new Point(283, 180);
+            showText.Location = new Point(299, 61);
             showText.Name = "showText";
             showText.Size = new Size(203, 60);
             showText.TabIndex = 0;
@@ -42,19 +43,34 @@
             showText.UseVisualStyleBackColor = true;
             showText.Click += showText_Click;
             // 
+            // messageField
+            // 
+            messageField.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
+            messageField.Location = new Point(12, 12);
+            messageField.Name = "messageField";
+            messageField.Size = new Size(776, 43);
+            messageField.TabIndex = 1;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 132);
+            Controls.Add(messageField);
             Controls.Add(showText);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Form1";
-            Text = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "TextAndButton";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private Button showText;
+        private TextBox messageField;
     }
 }
