@@ -1,2 +1,0 @@
-# TextAndButton
-Made in China
