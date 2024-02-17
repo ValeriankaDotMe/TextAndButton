@@ -1,0 +1,17 @@
+C:\Users\valerian\source\repos\TextAndButton\bin\Debug\net6.0-windows\TextAndButton.exe
+C:\Users\valerian\source\repos\TextAndButton\bin\Debug\net6.0-windows\TextAndButton.deps.json
+C:\Users\valerian\source\repos\TextAndButton\bin\Debug\net6.0-windows\TextAndButton.runtimeconfig.json
+C:\Users\valerian\source\repos\TextAndButton\bin\Debug\net6.0-windows\TextAndButton.dll
+C:\Users\valerian\source\repos\TextAndButton\bin\Debug\net6.0-windows\TextAndButton.pdb
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.csproj.AssemblyReference.cache
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.Form1.resources
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.csproj.GenerateResource.cache
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.AssemblyInfoInputs.cache
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.AssemblyInfo.cs
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.csproj.CoreCompileInputs.cache
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.dll
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\refint\TextAndButton.dll
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.pdb
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\TextAndButton.genruntimeconfig.cache
+C:\Users\valerian\source\repos\TextAndButton\obj\Debug\net6.0-windows\ref\TextAndButton.dll
